@@ -1,6 +1,6 @@
-# tugas_1
+# Tugas_1
 
-A new Flutter project.
+Tugas 1 flutter login screen.
 
 ## Getting Started
 
